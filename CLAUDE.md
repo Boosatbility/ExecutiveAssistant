@@ -21,7 +21,7 @@ Team: Efrat is solo. No team to loop in.
 
 - **Google Drive** - pitch decks and documents
 - **Gmail** - lead and investor communications
-- No MCP servers connected
+- **Todoist** (MCP connected) - create, read, update, and complete tasks directly from Claude
 
 ---
 
@@ -40,8 +40,16 @@ Key habits:
 
 Skills live in `.claude/skills/skill-name/SKILL.md`. Built organically as recurring workflows emerge.
 
+**Available skills:**
+- `help` -- list all skills and example commands. Say "help" or "what can I do?"
+- `accelerator-tracker` -- manage the accelerator pipeline (add, check, update, status)
+- `accelerator-application` -- draft answers for any accelerator application
+- `we-make-change-application` -- fill out the We Make Change volunteer platform registration - skill lives at `projects/accelerator-applications/we-make-change-application/SKILL.md`
+- `msisv-application` -- draft, review, and refine Morgan Stanley MSISV application answers (deadline March 31, 2026) - skill lives at `projects/accelerator-applications/msisv-application/SKILL.md`
+- `research` -- deep research with data and sources
+- `higher-ed-tam-research` -- US higher education market data, non-traditional student enrollment, TAM/SAM metrics with verified sources (for pitch decks)
+
 **Skills Backlog** (to build over time):
-- `accelerator-application` -- end-to-end workflow for applying to a new accelerator (highest priority)
 - `meeting-analysis` -- take a transcript, generate a summary email + next steps
 - `pitch-deck-polish` -- review and improve pitch deck content
 
@@ -85,6 +93,11 @@ Reusable templates live in `templates/`. Use `templates/session-summary.md` at t
 ## References
 
 SOPs and style guides live in `references/sops/` and `references/examples/`.
+
+**Examples available:**
+- `references/examples/Boostability Product One Pager.pdf` - product one pager
+- `references/examples/Boostability event Pace University April 28th, 2025.pdf` - Pace University event (April 28, 2025)
+- `references/examples/Boostability_Pitch_Deck_DETAILED.pdf` - detailed pitch deck
 
 ---
 

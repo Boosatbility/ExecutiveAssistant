@@ -10,6 +10,7 @@
 - No emojis
 - No corporate jargon or filler phrases ("It's worth noting that...", "Certainly!", etc.)
 - Plain text only -- no bold/italic emphasis unless it genuinely helps scannability
+- Sentence case only -- only the first word of a sentence or proper nouns are capitalized. Never title case for headers, labels, or section names.
 
 ## Tone (Internal -- when working with Efrat)
 - Casual, direct, human

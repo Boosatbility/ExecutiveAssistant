@@ -2,3 +2,7 @@
 CLAUDE.local.md
 .claude/settings.local.json
 node_modules/
+.DS_Store
+.google-credentials.json
+.google-token.json
+.google-refresh-token.json

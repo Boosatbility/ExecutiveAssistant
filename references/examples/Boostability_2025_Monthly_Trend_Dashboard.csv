@@ -1,0 +1,12 @@
+Expense Category,January,February,March,April,May,June,July,August,September,October,November,December,2025 Total,% of Budget
+Platform & Development,"$278","$0","$0","$22","$0","$250","$273","$54","$0","$0","$19","$0","$896",7.6%
+AI & LLM Services,"$20","$40","$40","$60","$20","$20","$220","$20","$20","$40","$40","$20","$580",4.9%
+Team Communications,"$17","$17","$17","$17","$17","$18","$18","$18","$18","$18","$18","$18","$196",1.7%
+Legal & Professional Services,"$0","$0","$0","$563","$263","$398","$424","$152","$0","$263","$0","$0","$2,062",17.5%
+Travel & Business Development,"$0","$0","$0","$838","$26","$100","$0","$0","$0","$0","$4,181","$114","$5,259",44.6%
+Infrastructure & Operations,"$0","$52","$3","$207","$86","$103","$62","$217","$3","$13","$43","$72","$858",7.3%
+Equipment & Technology,"$0","$0","$0","$1,577","$0","$0","$0","$0","$0","$0","$0","$0","$1,577",13.4%
+Bank & Transaction Fees,"$3","$0","$3","$3","$3","$3","$43","$3","$3","$6","$9","$0","$82",0.7%
+MONTHLY TOTAL,"$318","$109","$63","$3,287","$415","$894","$1,041","$464","$44","$340","$4,353","$224","$11,791",100.0%
+,,,,,,,,,,,,,
+Burn Rate Notes,,"Steady startup spend","Pre-April shift","Product investment (April spike = Apple MacBook for development + legal setup)",,,"Platform tier upgrade June-July to support growth","Post-development ramp-down","Summer slow period","Minimal ops","Conference circuit for lead generation (November)",,,"Avg monthly burn: $982. Bootstrapped, pre-revenue."

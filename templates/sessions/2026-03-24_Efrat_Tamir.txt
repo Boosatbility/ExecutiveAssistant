@@ -1,0 +1,110 @@
+Session Summary
+Date: 2026-03-24
+Focus: Business updates, client status, pitch deck review, dev operations
+Participants: Efrat, Tamir
+
+---
+
+What Got Done
+- Reviewed client status with Ryan and Karen
+- Went through leads list - Tamir already messaged 2-3 contacts
+- Deep slide-by-slide pitch deck review with concrete changes
+- Discussed developer situation (India / Upwork) and feature priorities
+
+Decisions Made
+- Remove "the first platform" claim from pitch deck (creates resistance)
+- Change "Solution" to "Approach" to emphasize flexibility per school
+- Simplify pricing slide: $12/student, faculty access at no extra cost
+- Remove specific years (e.g. 2026) from pilot references
+- Tell India developer there's a "summer break" - pause support retainer or convert to feature credit (Hebrew support, syllabus)
+- Prioritize Hebrew language support to be ready for Kaye College when timing allows
+- Focus target market on Higher Ed with emphasis on non-traditional students
+
+---
+
+Per-Person Summary
+
+Efrat
+Topics discussed:
+- Personal update: left home due to war, needed quiet workspace
+- Ryan took over as point of contact - meeting scheduled in ~1 week
+- Karen stopped replying to personal texts (likely intentional to let Ryan apply softer pressure)
+- Ryan raised budget issue; Efrat proposed using existing licenses to move forward - Ryan accepted
+- Meeting with psychiatrist in Boston who ran hospital management and wants to integrate tech with mental wellness
+- Paying $250/month to India developer with no active users right now
+
+Action items:
+- [ ] Update pitch deck based on Tamir's feedback (see decisions above)
+- [ ] Send updated pitch deck to Tamir
+- [ ] Prepare for Ryan meeting: lead with existing licenses proposal
+- [ ] Talk to India developer - pause support or convert to feature credit (Hebrew, syllabus)
+
+Tamir
+Topics discussed:
+- Flight experience (Atlanta to NYC, 4-hour TSA line)
+- Sent messages to 2-3 contacts from Efrat's leads list
+- Edtech budgets close in June - now is the time to close for next cycle
+- Detailed pitch deck feedback: opening slide, problem/data order, positioning, pricing, target market
+
+Action items:
+- [ ] Follow up and report back on contacts reached out to from leads list
+
+---
+
+Open Items / Next Steps
+- Efrat sends updated pitch deck to Tamir
+- Ryan meeting in ~1 week - finalize positioning and proposal
+- Kaye College: prep Hebrew support when timing opens up
+- Leads outreach: Tamir continues, Edtech budgets close June
+
+---
+
+Pitch Deck Updates Checklist
+
+- [+ ] Remove "the first platform" claim from opening slide
+- [ ] Remove resistance-triggering phrases (e.g. "faculty is blind") from opening slide
+- [+ ] Reorder problem/data slide: global data first, then students falling through the cracks
+- [ +] Keep only "Powered by AI" for tech positioning
+- [+ ] Change "Solution" to "Approach"
+- [ ] Simplify pricing slide: $12/student, faculty access at no extra cost
+- [+ ] Remove specific years (e.g. 2026) from pilot references
+- [ ] Target market: Higher Ed, with strong emphasis on non-traditional students
+
+---
+
+שינויים במצגת (Pitch Deck) - סיכום מהשיחה עם תמיר
+
+1. שקף פתיחה
+   - להסיר משפטים שמייצרים התנגדות, כמו "הפקולטה עיוורת"
+   - להתמקד בהגדרה יבשה וברורה של הפלטפורמה
+
+2. שקף הבעיה והדאטה
+   - לשנות סדר: קודם להציג דאטה עולמי על הבעיה, ואחר כך להראות איך סטודנטים "נופלים בין הכיסאות"
+
+3. מיצוב טכנולוגי
+   - להוריד את ההצהרה "הפלטפורמה הראשונה" - מייצר התנגדות
+   - להשאיר רק "Powered by AI"
+
+4. טרמינולוגיה
+   - להחליף "Solution" ב-"Approach"
+   - מטרה: להדגיש גמישות של Boostability 360 להתאמה לצרכי כל בית ספר
+
+5. מודל עסקי ותמחור
+   - לפשט את שקף התמחור: 12 דולר לסטודנט
+   - להדגיש שגישה לפקולטה היא ללא עלות נוספת - זה ה-Incentive לצמיחה
+
+6. שוק היעד
+   - מיקוד ב-Higher Education
+   - להדגיש חזק סטודנטים "לא טרדיציונליים" (Non-traditional students) כשוק צמיחה מרכזי
+
+7. מחיקת תאריכים
+   - להסיר שנים ספציפיות (כמו 2026) מהפיילוטים
+   - מטרה: למנוע שאלות מיותרות על קצב התקדמות
+
+---
+
+Memory Updates
+- Preferences learned: none new
+- Decisions to log:
+  [2026-03-24] DECISION: Change pitch deck "Solution" to "Approach" | REASONING: Signals flexibility and adaptability to each school's needs | CONTEXT: Tamir feedback session
+  [2026-03-24] DECISION: Pause or convert India dev retainer ($250/mo) | REASONING: No active users, better to redirect to feature development (Hebrew, syllabus) | CONTEXT: Tamir feedback session
